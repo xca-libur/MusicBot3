@@ -98,4 +98,4 @@ client.on('voiceStateUpdate', (oldState, newState) => {
   }
 });
 
-client.login(discordToken);
+client.login(process.env.TOKEN);
