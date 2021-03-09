@@ -35,7 +35,7 @@
     "discord.js-commando": "github:discordjs/Commando",
     "music-metadata": "^7.5.2",
     "soundcloud-downloader": "^0.2.2",
-    "ytdl-core": "^4.2.1"
+    "ytdl-core": "^4.5.0"
   },
   "eslintConfig": {
     "extends": [
